@@ -1,6 +1,6 @@
 # Global Parameters (REQUIRED)
 # Add your domain (REQUIRED)
-domain: "" 
+domain: "mastodon.moritzsteiner.de" 
 # Application specific
 traefik:
   enable: true
